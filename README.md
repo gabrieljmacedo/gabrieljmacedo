@@ -7,5 +7,5 @@
   
  #### :chart_with_upwards_trend: My GitHub Stats:
   
- [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljmacedo&count_private=true&show_icons=true&theme=default)](https://github.com/gabrieljmacedo/github-readme-stats) 
+ [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieljmacedo&count_private=true&show_icons=true&theme=default&include_all_commits)](https://github.com/gabrieljmacedo/github-readme-stats) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljmacedo&layout=compact)](https://github.com/gabrieljmacedo/github-readme-stats)

@@ -1,7 +1,5 @@
 ### Hi there! Nice to meet you here :wave:
 
-#### Me chamo Gabriel, sou o formado em Sistemas e atualmente estou em transição de carreira buscando uma oportunidade como Jr Developer.
-
 <!-- <a href="https://www.linkedin.com/in/gabrieljmacedo" alt="linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a> -->
